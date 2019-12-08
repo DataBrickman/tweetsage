@@ -79,4 +79,4 @@ vectors = prepare_vectors_for_analysis(text_file)
 
 cosine_similarity_vector_comparison(vectors, "president","arealdonaldtrump")
 
-#Word Embedding method with a cosine distance asses that our two sentences are similar to 99.07 %
+#Word Embedding method with a cosine distance assesses that our two sentences are similar to 99.07 %
